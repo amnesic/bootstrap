@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: article
 title: 'Demo'
 abstract: 'Short summary of your article.'
